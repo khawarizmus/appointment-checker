@@ -1,0 +1,15 @@
+{
+  "name": "appointment-checker",
+  "version": "1.0.0",
+  "description": "checking for open appointment slots",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "login": "vercel login",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^21.2.3"
+  }
+}
